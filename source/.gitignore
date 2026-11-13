@@ -1,0 +1,8 @@
+# MSVC / local build outputs
+bin/
+packages/
+.vs/
+**/*.user
+**/*.suo
+Thumbs.db
+Desktop.ini

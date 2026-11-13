@@ -1,8 +1,0 @@
-# Local IDE / build outputs inside source/
-source/bin/
-source/packages/
-source/.vs/
-**/*.user
-**/*.suo
-Thumbs.db
-Desktop.ini
